@@ -13,7 +13,7 @@
 - Member 2: Dhina Jobby Pynadath - ASIET
 
 ### Hosted Project Link
-https://dhinajobby.github.io/Tink-Her-Hack-Dhina/
+https://luxe-beauty-alpha.vercel.app/
 
 ### Project Description
 This project is a modern beauty website/application designed to enhance the customer experience through AI-based foundation shade matching, personalized tutorials, and professional makeup assistance booking.
