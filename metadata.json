@@ -1,0 +1,5 @@
+{
+  "name": "Luxe Beauty - AI Shade Matcher & Artistry",
+  "description": "A premium beauty platform featuring AI-powered shade matching, expert tutorials, and personalized mentorship bookings.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
