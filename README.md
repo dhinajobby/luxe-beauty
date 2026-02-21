@@ -83,27 +83,25 @@ npm run dev
 ### For Software:
 
 #### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="919" alt="FRONT PAGE" src="https://github.com/user-attachments/assets/ce80b3fe-11db-4525-abac-900f6e639080" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="916" alt="SHADE" src="https://github.com/user-attachments/assets/d599ed72-563a-4877-b813-7b7eb64d88a8" />
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="919" alt="FRONT PAGE" src="https://github.com/user-attachments/assets/60a570a4-fa7a-42b7-82cd-c06be9cffe06" />
 
 #### Diagrams
 
 **System Architecture:**
 
 ![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
 
+nil
 **Application Workflow:**
 
 ![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+nil
 
 ---
 
@@ -125,7 +123,6 @@ npm run dev
 *List out all components shown*
 
 ![Build](Add photos of build process here)
-<img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/dc55d3bb-85ea-420a-b1f7-1f77ccaefd40" />
 
 
 ![Final](Add photo of final product here)
@@ -363,9 +360,11 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+[[Add your demo video link here - YouTube, Google Drive, etc.]](https://drive.google.com/file/d/1XZUUq_eIKyS5LAiZtFwx9GsCokLchJ4i/view?usp=sharing)
+- Feature 1: match shade: open camera and find skin shade
+- Feature 2: Nearby available products
+- Feature 3: Mentors: book mentors to teach
+  
 
 ### Additional Demos
 [Add any extra demo materials/links - Live site, APK download, online demo, etc.]
